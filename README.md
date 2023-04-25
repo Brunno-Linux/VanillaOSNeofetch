@@ -1,7 +1,7 @@
 # VanillaOSNeofetch
 A VanillaOS config for neofetch. (im russian, pls dont hit me if i make grammatical mistakes)
 
-![Preview](https://github.com/Brunno-Linux/VanillaOSNeofetch/blob/main/Neofetch.png)
+![Preview](https://github.com/Brunno-Linux/VanillaOSNeofetch/blob/main/Neofetch_screen_003.png)
 
 # HOW TO INSTALL? (eng)
 1 - Download the archive release.
