@@ -1,7 +1,9 @@
 # VanillaOSNeofetch
 A VanillaOS config for neofetch. (im russian, pls dont hit me if i make grammatical mistakes)
 
-# HOW TO INSTALL?
+![Preview](https://github.com/Brunno-Linux/VanillaOSNeofetch/blob/main/Neofetch.png)
+
+# HOW TO INSTALL? (eng)
 1 - Download the archive release.
 
 2 - Place the "config.conf" file in the path "/home/{name_of_user}/.config/neofetch"
@@ -13,3 +15,17 @@ A VanillaOS config for neofetch. (im russian, pls dont hit me if i make grammati
 5 - Save and run neofetch.
 
 6 - Rejoice, now in neofetch it is not written about Ubuntu, now it is about VanillaOS!
+
+# КАК УСТАНОВИТЬ? (rus)
+
+1 - Загрузите архивный релиз.
+
+2 - Поместите файл "config.conf" по пути "/home/{name_of_user}/.config/neofetch"
+
+3 - Поместите файл "ascii.txt " в любое удобное для вас место (желательно куда-нибудь подальше от посторонних глаз)
+
+4 - Отредактируйте загруженный конфигурационный файл neofetch, указав в строке "image_source=" (строка 712) путь к файлу "ascii.txt "
+
+5 - Сохраняйте и запускайте без выборки.
+
+6 - Радуйтесь, теперь в neofetch написано не об Ubuntu, теперь речь идет о Vanilla OS!
